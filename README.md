@@ -122,7 +122,7 @@ A. Graphical User Interface (GUI)
 -Search use keyword search the product
 
 
-B. Command Line Interface (CLI)
+B. Command Line Interface (CLI) - 
 There is no command line interface provided to the user in the application.
 
 
