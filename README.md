@@ -81,8 +81,9 @@ There is no command line interface provided to the user in the application.
 
 C. Application Programming Interface (API)
  It can expose or consume APIs like:
--Firebase Auth API – user login, signup
--Google ARCore API – for AR functionality
--Firebase Firestore – database for products, users, orders
+
+1.Firebase Auth API – user login, signup
+2.Google ARCore API – for AR functionality
+3.Firebase Firestore – database for products, users, orders
 
 # Modern Furniture
