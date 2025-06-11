@@ -100,29 +100,32 @@ After finalizing their choices, users can add to cart, proceed to secure payment
 
 These features aim to bridge the gap between imagination and reality, ensuring that users make confident and satisfying purchases.
 
+
 🧑‍💻 11. User Interfaces
 
 A. Graphical User Interface (GUI)
 
-Page	Description
+-Page	Description
 
-Home	Displays featured furniture, categories
+-Home	Displays featured furniture, categories
 
-Login/Signup	User authentication screen
+-Login/Signup	User authentication screen
 
-Product Page	View details, price, images, AR option
+-Product Page	View details, price, images, AR option
 
-Cart & Wishlist	Added items
+-Cart & Wishlist	Added items
 
-AR Viewer	Opens device camera for real-time 3D furniture preview
+-AR Viewer	Opens device camera for real-time 3D furniture preview
 
-Admin Panel	Dashboard with product and order management
+-Admin Panel	Dashboard with product and order management
 
-Search use keyword search the product
+-Search use keyword search the product
+
 
 B. Command Line Interface (CLI)
 
 There is no command line interface provided to the user in the application.
+
 
 C. Application Programming Interface (API)
 
