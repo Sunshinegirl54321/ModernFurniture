@@ -1,13 +1,13 @@
 # Online Furniture Shopping App(AR based)
 
 🧩 1. Problem Statement
-Traditional furniture shopping involves physically visiting stores, limited product comparison, no visualization of furniture in real home environments. There is a need for an online system that allows users to browse, visualize, and purchase furniture seamlessly, with real-time AR (Augmented Reality), and Cash or Credit payment.
+*Traditional furniture shopping involves physically visiting stores, limited product comparison, no visualization of furniture in real home environments. There is a need for an online system that allows users to browse, visualize, and purchase furniture seamlessly, with real-time AR (Augmented Reality), and Cash or Credit payment.
 
 📝 2. Introduction
-The  is a digital platform that enables users to browse, visualize (via AR), and buy furniture items from the comfort of their homes. It features a modern GUI, wishlist, AR-based visualization, and secure payments. The application is designed to bridge the gap between offline limitations and digital convenience.
+*The  is a digital platform that enables users to browse, visualize (via AR), and buy furniture items from the comfort of their homes. It features a modern GUI, wishlist, AR-based visualization, and secure payments. The application is designed to bridge the gap between offline limitations and digital convenience.
 
 🎯 3. Purpose
-The app is developed with the idea of providing users with a convenient way to ease and streamline their design of the room while supplying them with the Augmented Reality technology. It is best for the users who can't decide what would suit in their room and where.
+*The app is developed with the idea of providing users with a convenient way to ease and streamline their design of the room while supplying them with the Augmented Reality technology. It is best for the users who can't decide what would suit in their room and where.
 
 The main purpose of the system is to:
 -Provide a virtual shopping experience with realistic product visualization (using AR).
