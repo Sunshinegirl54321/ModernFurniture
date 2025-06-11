@@ -126,7 +126,7 @@ B. Command Line Interface (CLI) -
 There is no command line interface provided to the user in the application.
 
 
-C. Application Programming Interface (API)
+C. Application Programming Interface (API) - 
 It can expose or consume APIs like:
 
 1.Firebase Auth API – user login, signup
